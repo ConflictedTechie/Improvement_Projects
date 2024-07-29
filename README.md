@@ -1,2 +1,2 @@
-# Improvement_Projects
-This are my project to test my skillset, improve my knowledge about Data-science/ Data Analysis. 
+# Improvement_Projects ∋ DS
+This are my project to test my skillset, improve my knowledge about Data-science
